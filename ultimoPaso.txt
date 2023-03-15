@@ -1,2 +1,3 @@
 A dia:	15/mar/2023
 Empezamos en el paso 9 (desde 0)
+Terminamos la parte 1 (no hemos empezado la parte de los pull requests para 2 grupos separados)
